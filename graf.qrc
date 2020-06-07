@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GRAF.txt</file>
+        <file>GRAF_text.txt</file>
+    </qresource>
+</RCC>
